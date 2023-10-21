@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yassakamille@gmail.com**
 
-- 📄 Know about my experiences [MY_CV](https://github.com/yassakamille/yassakamille/blob/main/Yassa_Kamille_CV.pdf)
+- 📄 Know about my experiences [https://github.com/yassakamille/yassakamille/blob/main/Yassa_Kamille_CV.pdf](https://github.com/yassakamille/yassakamille/blob/main/Yassa_Kamille_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
