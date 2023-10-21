@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassa Kamille</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 🔭 I’m currently Studying at **FCIS | Faculty of Computer and Information Science - Ain Shams University**
+- 🔭 I’m currently Studying at **FCIS ASU | Faculty of Computer and Information Science - Ain Shams University**
 
 - 🌱 I’m currently learning **Android Development , Machine Learning and Neural Networks & Deep learning**
 
