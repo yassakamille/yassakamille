@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying at **FCIS ASU | Faculty of Computer and Information Science - Ain Shams University**
 
-- 🌱 I’m currently learning **Android Development , Machine Learning and Neural Networks & Deep learning**
+- 🌱 I’m currently learning **Mobile Development , Machine Learning and Neural Networks & Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yassakamille](https://github.com/yassakamille)
 
