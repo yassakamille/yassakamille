@@ -11,8 +11,14 @@
 
 - 📄 Know about my experiences [https://github.com/yassakamille/yassakamille/blob/main/Yassa_Kamille_CV.pdf](https://github.com/yassakamille/yassakamille/blob/main/Yassa_Kamille_CV.pdf)
 
+- ⚡ Fun fact **I think I'm Funny :D**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+<a href="https://openai.com/models/gpt-3/" target="_blank" rel="noreferrer">
+  <img src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png" alt="ChatGPT" width="50" height="50"/>
+</a>
+<br>
 <a href="https://linkedin.com/in/yassa-kamille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassa-kamille" height="30" width="40" /></a>
 <a href="https://fb.com/yassa kamille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassa kamille" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/yassakamille." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yassakamille." height="30" width="40" /></a>
