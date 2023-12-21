@@ -1,4 +1,6 @@
+  [![HitCount](https://hits.dwyl.com/yassakamille/yassakamille.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yassakamille/yassakamille)
    [![HitCount](https://hits.dwyl.com/yassakamille/yassakamille.svg?style=flat-square)](http://hits.dwyl.com/yassakamille/yassakamille)
+   
 
 <h1 align="center">Hi 👋, I'm Yassa Kamille</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
