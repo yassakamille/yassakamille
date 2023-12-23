@@ -1,4 +1,6 @@
   [![HitCount](https://hits.dwyl.com/yassakamille/yassakamille.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yassakamille/yassakamille)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yassakamille&show_icons=true)
+
    
 
 <h1 align="center">Hi 👋, I'm Yassa Kamille</h1>
