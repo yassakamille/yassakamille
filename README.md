@@ -1,5 +1,5 @@
   [![HitCount](https://hits.dwyl.com/yassakamille/yassakamille.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yassakamille/yassakamille)
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yassakamille&show_icons=true)
+  
 
    
 
@@ -35,3 +35,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/yassakamille"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yassakamille" /></a></p><br><br>
+<table>
+<th><p>![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yassakamille&show_icons=true)></p></th>
+<th>
+</table>
+
