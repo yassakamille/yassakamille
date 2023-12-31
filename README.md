@@ -1,10 +1,9 @@
-  [![HitCount](https://hits.dwyl.com/yassakamille/yassakamille.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yassakamille/yassakamille)
-  
 
-   
-
-<h1 align="center">Hi 👋, I'm Yassa Kamille</h1>
+<h1 align="center">Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Yassa Kamille</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassakamille&label=Profile%20views&color=0e75b6&style=flat" alt="yassakamille" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassakamille" alt="yassakamille" /></a> </p>
 
 - 🔭 I’m currently Studying at **FCIS ASU | Faculty of Computer and Information Science - Ain Shams University**
 
@@ -35,6 +34,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/yassakamille"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yassakamille" /></a></p><br><br>
+
+<hr>
 <table>
 <th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassakamille&show_icons=true&locale=en&layout=compact" alt="yassakamille" /></p></th>
 <th>
