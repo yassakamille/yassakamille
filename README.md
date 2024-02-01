@@ -37,19 +37,21 @@
 
 <hr>
 <table>
-<th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassakamille&show_icons=true&locale=en&layout=compact" alt="yassakamille" /></p></th>
+<th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassakamille&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="yassakamille" /></p></th>
 <th>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassakamille&show_icons=true&locale=en" alt="yassakamille" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassakamille&theme=github_dark&show_icons=true&locale=en" alt="yassakamille" /></p>
   </th>
   <th>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassakamille&" alt="yassakamille" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassakamille&&theme=github_dark" alt="yassakamille" /></p>
   </th>
 </table>
 <hr>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yassakamille&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yassakamille&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yassakamille&theme=github_dark" height="180em" />
-</div>
+<table>
+<th><p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yassakamille&theme=github_dark" height="180em" /></p></th>
+<th><p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yassakamille&theme=github_dark" height="180em" /></p></th>
+<th><p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yassakamille&theme=github_dark" height="180em" /></p></th>
+</table>
+<hr>
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yassakamille&theme=github-compact"/>
 
