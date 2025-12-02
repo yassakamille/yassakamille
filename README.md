@@ -42,10 +42,9 @@
 <hr>
 <h2 align="left">📊Statistics:</h2>
 
-<table>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassakamille&&theme=github_dark" alt="yassakamille" /></p>
-  </th>
-</table>
+
 <hr>
 <table>
 <th><p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yassakamille&theme=github_dark" height="180em" /></p></th>
