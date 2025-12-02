@@ -43,11 +43,6 @@
 <h2 align="left">📊Statistics:</h2>
 
 <table>
-<th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassakamille&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="yassakamille" /></p></th>
-<th>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassakamille&theme=github_dark&show_icons=true&locale=en" alt="yassakamille" /></p>
-  </th>
-  <th>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassakamille&&theme=github_dark" alt="yassakamille" /></p>
   </th>
 </table>
