@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassakamille" alt="yassakamille" /></a> </p>
 
-- 🔭 I’m currently Fresh graduate at **FCIS ASU | Faculty of Computer and Information Sciences - Ain Shams University**
+- 🔭 I’m currently graduate at **FCIS ASU | Faculty of Computer and Information Sciences - Ain Shams University**
 
 - 🌱 I’m currently learning **Mobile Development , Machine Learning and Neural Networks & Deep learning**
 
