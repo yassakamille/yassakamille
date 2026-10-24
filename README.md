@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yassakamille@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/yassakamille/yassakamille/blob/main/Yassa_Kamille_CV.pdf]([https://github.com/yassakamille/yassakamille/blob/main/Yassa_Kamille_CV.pdf](https://drive.google.com/file/d/1RWj737_ZMJMards3mxB9xmyPd7TrpmVd/view?usp=sharing))
+- 📄 Know about my experiences **https://drive.google.com/file/d/1RWj737_ZMJMards3mxB9xmyPd7TrpmVd/view?usp=sharing**
 
 - ⚡ Fun fact **I think I'm Funny :D**
 <h3 align="left">Connect with me:</h3>
